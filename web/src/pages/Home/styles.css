@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+.container {
+    width: 100%;
+    height: 400px;
+    float: left;
+    background-color: black;
+    position: relative;
+    margin: 0;
+}
+
+.container img {
+    float: left;
+    margin: 30;
+}
+
+.container a.Home {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+    text-decoration: none;
+    color: #FFF;
+    float: right;
+}
+
+.container a.Aboutme {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+    text-decoration: none;
+    color: #FFF;
+    float: right;
+}
+
+.container a.Portfolio {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+    text-decoration: none;
+    color: #FFF;
+    float: right;
+}
+
+
+.container a.Contact {
+    margin-top: 5em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+    text-decoration: none;
+    color: #FFF;
+    float: right;
+}
+
+.container svg.linked {
+    margin: 0 5px 0 0;
+    color: #Fff;
+    display: block;
+    border: 1px solid #FFF;
+    padding: 4px;
+    width: 25px;
+    height: 25px;
+    line-height: 12px;
+    float: right;
+    margin-top: 1em;
+    border-radius: 120px;
+}
+
+
+
+.container svg.github {
+    margin: 0 5px 0 0;
+    color: #Fff;
+    display: block;
+    border: 1px solid #FFF;
+    padding: 4px;
+    width: 25px;
+    height: 25px;
+    line-height: 12px;
+    float: right;
+    margin-right: 3em;
+    border-radius: 120px;
+    margin-top: 1.8em;
+}
+
+.container a.Linke {
+    color: #FFF;
+    float: right;
+}
+
+.container h1 {
+    color: #FFF;
+    clear: both;
+    margin: 100px auto 30px auto;
+    border: 3px solid #FFF;
+    padding: 20px;
+    display: table;
+    font-weight: lighter;
+    margin-top: 5em;
+}
+
+.container p.pp {
+    display: block;
+    font-size: 12px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.faixa{
+    margin-top: 5em;
+    display: block;
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(20deg, #000, #808080);
+    bottom: 0;
+}
+
+.itens {
+    background-image: linear-gradient(0deg, #d3d3d3, transparent);
+    text-align: center;
+    justify-content: space-around;
+}
+
+.lapis{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 120px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+
+.codigo{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 120px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+
+.imagem img.fotoy {
+    float: none;
+    width:170px;
+    height: 170px;
+    border-radius: 120px;
+    margin-top: 2em;
+}
+
+.coracao{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 120px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+
+.compartilhar{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 120px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+
+.textos1{
+    margin-top: 2em;
+}
+
+.textos1 p {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.textos1 p1 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.textos1 p2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.textos1 p3 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.textos2 {
+    margin-top: 2em;
+}
+
+
+.textos2 a {
+    text-decoration: none;
+    color: #808080;
+    font-size: 16;
+    font-weight: bold;
+}
+
+
+.textos2 a.botao {
+    border: 2px solid #808080;
+    transition: border-color 0.2s;
+    text-transform: uppercase;
+    padding: 9px;
+    margin: 1;
+}
+
+.textos2 a.botao:hover {
+    border-color: black;
+}
+
+.logorodape img.logoroda {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 35px auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-top: 3em;
+}
+
+.logorodape p {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+}
+
